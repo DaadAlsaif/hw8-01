@@ -14,7 +14,8 @@
     "@fastify/swagger": "^7.4.0",
     "@fastify/type-provider-typebox": "^1.0.0",
     "@sinclair/typebox": "^0.23.5",
-    "fastify": "^4.0.3"
+    "fastify": "^4.0.3",
+    "heroku": "^7.60.2"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.3",
